@@ -16,7 +16,7 @@
     },
     "webApiPermissionRequests": [
       {
-        "resource": "Company Communicator App",
+        "resource": "Company Communicator",
         "scope": "access_as_user"
       }
     ],
