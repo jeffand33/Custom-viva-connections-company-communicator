@@ -16,7 +16,7 @@
     },
     "webApiPermissionRequests": [
       {
-        "resource": "Company Communicator",
+        "resource": "Company Communicator Author",
         "scope": "access_as_user"
       }
     ],
